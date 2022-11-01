@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mVT/KrA0lORZR9DvhAtPu5cOk0JPMm+cSkv5EXZyO54rjUbsHjbvX5Gukda90lHTf4zUKJ6Xpx7TNgIwcmEs2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gokselyilmaz\\source\\repos\\TrenRezervasyon\\TrenRezervasyon\\TrenRezervasyon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gokselyilmaz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\gokselyilmaz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gokselyilmaz\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\gokselyilmaz\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\gokselyilmaz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\gokselyilmaz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
